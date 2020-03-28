@@ -1,7 +1,7 @@
 {
-  "name": "new-folder",
+  "name": "my_portfolio",
   "version": "1.0.0",
-  "description": "Ehtisham portfolio website",
+  "description": "ehtisham portfolio website",
   "main": "index.js",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css --recursive"
